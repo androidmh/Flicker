@@ -16,6 +16,7 @@ import kotlinx.android.synthetic.main.dialog_img.*
 import android.view.MotionEvent
 import android.view.View.OnTouchListener
 import android.widget.*
+import com.example.yunda.flicker.R.id.ll_dialogf
 
 
 @SuppressLint("ValidFragment")
